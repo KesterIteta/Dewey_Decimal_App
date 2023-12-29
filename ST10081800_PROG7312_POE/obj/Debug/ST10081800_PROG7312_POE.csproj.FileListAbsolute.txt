@@ -1,0 +1,474 @@
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.AssemblyReference.cache
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.AppMenu.resources
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Game.resources
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Properties.Resources.resources
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.WelcomePage.resources
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.GenerateResource.cache
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CoreCompileInputs.cache
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe.config
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.dll
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\WinFormAnimation.dll
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.xml
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CopyComplete
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Resource.resources
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.ResolveComReference.cache
+C:\Users\Kester\Desktop\PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe.config
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\WinFormAnimation.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.AssemblyReference.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.ResolveComReference.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.AppMenu.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Game.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Properties.Resources.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Resource.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.WelcomePage.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.GenerateResource.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CoreCompileInputs.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CopyComplete
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_PART1\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe.config
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\WinFormAnimation.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.AssemblyReference.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.ResolveComReference.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.AppMenu.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Game.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Properties.Resources.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Resource.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.WelcomePage.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.GenerateResource.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CoreCompileInputs.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CopyComplete
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe.config
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\WinFormAnimation.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.AssemblyReference.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.ResolveComReference.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.AppMenu.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Game.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Properties.Resources.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Resource.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.WelcomePage.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.GenerateResource.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CoreCompileInputs.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CopyComplete
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.MatchingGame.resources
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\WinFormAnimation.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.pdb
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.AssemblyReference.cache
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\Interop.WMPLib.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.ResolveComReference.cache
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.AppMenu.resources
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Game.resources
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.MatchingGame.resources
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Properties.Resources.resources
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Resource.resources
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.WelcomePage.resources
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.GenerateResource.cache
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CoreCompileInputs.cache
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe.config
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Interop.WMPLib.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CopyComplete
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\NLog.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Memory.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.dll
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\NLog.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Memory.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gkiba\Downloads\ST10081800_PROG7312_POE_3\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe.config
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\NLog.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Memory.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\WinFormAnimation.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.pdb
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\NLog.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Memory.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.xml
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.AssemblyReference.cache
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.ResolveComReference.cache
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.AppMenu.resources
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Game.resources
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.MatchingGame.resources
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Properties.Resources.resources
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Resource.resources
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.WelcomePage.resources
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.GenerateResource.cache
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CoreCompileInputs.cache
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CopyComplete
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Downloads\DeweyDecimalLibrary_Matching Game implemented (1)\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe.config
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CustomControlsClassLibrary.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\NLog.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Memory.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\WinFormAnimation.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CustomControlsClassLibrary.pdb
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.pdb
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\NLog.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Memory.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.AssemblyReference.cache
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.ResolveComReference.cache
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.AppMenu.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Game.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.MatchingGame.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Properties.Resources.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Resource.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.WelcomePage.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.GenerateResource.cache
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CoreCompileInputs.cache
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CopyComplete
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe.config
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CustomControlsClassLibrary.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\NLog.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Memory.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\WinFormAnimation.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CustomControlsClassLibrary.pdb
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.pdb
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\NLog.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Memory.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.xml
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.AssemblyReference.cache
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.ResolveComReference.cache
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.AppMenu.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Game.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.MatchingGame.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Properties.Resources.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Resource.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.WelcomePage.resources
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.GenerateResource.cache
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CoreCompileInputs.cache
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CopyComplete
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Downloads\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CustomControlsClassLibrary.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\WinFormAnimation.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CustomControlsClassLibrary.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\WinFormAnimation.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Control.Draggable.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\NLog.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Memory.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CustomControlsClassLibrary.pdb
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.pdb
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\NLog.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Memory.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.xml
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.AssemblyReference.cache
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\Interop.WMPLib.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\AxInterop.WMPLib.dll
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.ResolveComReference.cache
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.AppMenu.resources
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Game.resources
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.MatchingGame.resources
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Properties.Resources.resources
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Resource.resources
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.WelcomePage.resources
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.GenerateResource.cache
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CoreCompileInputs.cache
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.exe
+D:\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Control.Draggable.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\NLog.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Memory.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CustomControlsClassLibrary.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\CircularProgressBar.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\NLog.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Memory.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.AssemblyReference.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.ResolveComReference.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.AppMenu.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Game.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.MatchingGame.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Properties.Resources.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.Resource.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.WelcomePage.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.GenerateResource.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CoreCompileInputs.cache
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.exe
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.exe.config
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\ST10081800_PROG7312_POE.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.csproj.CopyComplete
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Text.Json.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\bin\Debug\System.Text.Json.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE1\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.DWC_Quiz.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Control.Draggable.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CustomControlsClassLibrary.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\NLog.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Memory.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Text.Json.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.dll
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\CustomControlsClassLibrary.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\DeweyDecimalLibrary.pdb
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\NLog.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Buffers.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Memory.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Text.Json.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\bin\Debug\System.ValueTuple.xml
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.DWC_Quiz.resources
+C:\Users\Kester\Desktop\ST10081800_PROG7312_POE\ST10081800_PROG7312_POE\obj\Debug\ST10081800_PROG7312_POE.MatchingGame.resources

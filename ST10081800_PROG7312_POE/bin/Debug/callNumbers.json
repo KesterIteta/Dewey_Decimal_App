@@ -1,0 +1,962 @@
+{
+  "categories": [
+    {
+      "description": "Philosophy, Psychology, Religion",
+      "code": 100,
+      "subcategories": [
+        {
+          "description": "Metaphysics",
+          "code": 110,
+          "subcategories": [
+            {
+              "description": "Ontology",
+              "code": 111
+            },
+            {
+              "description": "Cosmology",
+              "code": 112
+            },
+            {
+              "description": "Philosophical Realism",
+              "code": 113
+            },
+            {
+              "description": "Idealism",
+              "code": 114
+            }
+          ]
+        },
+        {
+          "description": "Epistemology & ethics",
+          "code": 120,
+          "subcategories": [
+            {
+              "description": "Epistemological theories",
+              "code": 121
+            },
+            {
+              "description": "Ethical systems",
+              "code": 122
+            },
+            {
+              "description": "Empiricism",
+              "code": 123
+            },
+            {
+              "description": "Deontological ethics",
+              "code": 124
+            }
+          ]
+        },
+        {
+          "description": "Psychology",
+          "code": 130,
+          "subcategories": [
+            {
+              "description": "Behavioral Psychology",
+              "code": 131
+            },
+            {
+              "description": "Cognitive Psychology",
+              "code": 132
+            },
+            {
+              "description": "Developmental Psychology",
+              "code": 133
+            },
+            {
+              "description": "Social Psychology",
+              "code": 134
+            }
+          ]
+        },
+        {
+          "description": "Religion",
+          "code": 140,
+          "subcategories": [
+            {
+              "description": "Theology",
+              "code": 141
+            },
+            {
+              "description": "Comparative Religion",
+              "code": 142
+            },
+            {
+              "description": "Religious Ethics",
+              "code": 143
+            },
+            {
+              "description": "Mysticism",
+              "code": 144
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Religion",
+      "code": 200,
+      "subcategories": [
+        {
+          "description": "Philosophy & theory of religion",
+          "code": 210,
+          "subcategories": [
+            {
+              "description": "Concepts of God",
+              "code": 211
+            },
+            {
+              "description": "Revelation",
+              "code": 212
+            },
+            {
+              "description": "Theodicy",
+              "code": 213
+            },
+            {
+              "description": "Comparative religion",
+              "code": 214
+            }
+          ]
+        },
+        {
+          "description": "Bible",
+          "code": 220,
+          "subcategories": [
+            {
+              "description": "Old Testament",
+              "code": 221
+            },
+            {
+              "description": "New Testament",
+              "code": 225
+            },
+            {
+              "description": "Historical Books",
+              "code": 222
+            },
+            {
+              "description": "Poetic Books",
+              "code": 223
+            }
+          ]
+        },
+        {
+          "description": "Christianity & Christian theology",
+          "code": 230,
+          "subcategories": [
+            {
+              "description": "God",
+              "code": 231
+            },
+            {
+              "description": "Jesus Christ",
+              "code": 232
+            },
+            {
+              "description": "Resurrection & ascension",
+              "code": 233
+            },
+            {
+              "description": "Salvation & grace",
+              "code": 234
+            },
+            {
+              "description": "Angels & miracles",
+              "code": 235
+            }
+          ]
+        },
+        {
+          "description": "Other Religions",
+          "code": 236,
+          "subcategories": [
+            {
+              "description": "Islam",
+              "code": 237
+            },
+            {
+              "description": "Hinduism",
+              "code": 238
+            },
+            {
+              "description": "Buddhism",
+              "code": 239
+            },
+            {
+              "description": "Judaism",
+              "code": 240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Social Sciences",
+      "code": 300,
+      "subcategories": [
+        {
+          "description": "General statistics",
+          "code": 310,
+          "subcategories": [
+            {
+              "description": "Collection & analysis of statistics",
+              "code": 311
+            },
+            {
+              "description": "Population",
+              "code": 312
+            },
+            {
+              "description": "Surveys and Sampling",
+              "code": 313
+            },
+            {
+              "description": "Statistical Inference",
+              "code": 314
+            }
+          ]
+        },
+        {
+          "description": "Political science",
+          "code": 320,
+          "subcategories": [
+            {
+              "description": "Systems of governments",
+              "code": 321
+            },
+            {
+              "description": "Relation of state to organized groups",
+              "code": 322
+            },
+            {
+              "description": "Civil & political rights",
+              "code": 323
+            },
+            {
+              "description": "Political Ideologies",
+              "code": 324
+            }
+          ]
+        },
+        {
+          "description": "Economics",
+          "code": 330,
+          "subcategories": [
+            {
+              "description": "Labor economics",
+              "code": 331
+            },
+            {
+              "description": "Financial economics",
+              "code": 332
+            },
+            {
+              "description": "Natural resources & energy",
+              "code": 333
+            },
+            {
+              "description": "Cooperatives",
+              "code": 334
+            }
+          ]
+        },
+        {
+          "description": "Law",
+          "code": 340,
+          "subcategories": [
+            {
+              "description": "Law Of Nations",
+              "code": 341
+            },
+            {
+              "description": "Constitutional and administrative law",
+              "code": 342
+            },
+            {
+              "description": "Military, defense, public property, public finance, tax, commerce, industrial law",
+              "code": 343
+            },
+            {
+              "description": "Labor, social service, education, cultural law",
+              "code": 344
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Language",
+      "code": 400,
+      "subcategories": [
+        {
+          "description": "Linguistics",
+          "code": 410,
+          "subcategories": [
+            {
+              "description": "Writing systems",
+              "code": 411
+            },
+            {
+              "description": "Etymology",
+              "code": 412
+            },
+            {
+              "description": "Syntax",
+              "code": 413
+            },
+            {
+              "description": "Semantics",
+              "code": 414
+            }
+          ]
+        },
+        {
+          "description": "English & Old English languages",
+          "code": 420,
+          "subcategories": [
+            {
+              "description": "English writing system & phonology",
+              "code": 421
+            },
+            {
+              "description": "English word structure",
+              "code": 422
+            },
+            {
+              "description": "Dictionaries",
+              "code": 423
+            },
+            {
+              "description": "Spelling & pronunciation",
+              "code": 424
+            }
+          ]
+        },
+        {
+          "description": "Germanic languages",
+          "code": 430,
+          "subcategories": [
+            {
+              "description": "German language",
+              "code": 431
+            },
+            {
+              "description": "Middle High German",
+              "code": 432
+            },
+            {
+              "description": "Low German",
+              "code": 433
+            },
+            {
+              "description": "Other Germanic languages",
+              "code": 434
+            }
+          ]
+        },
+        {
+          "description": "French",
+          "code": 440,
+          "subcategories": [
+            {
+              "description": "Orthography",
+              "code": 441
+            },
+            {
+              "description": "Etymology",
+              "code": 442
+            },
+            {
+              "description": "Dictionaries And Encyclopedias",
+              "code": 443
+            },
+            {
+              "description": "Grammar",
+              "code": 445
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Natural Sciences & Mathematics",
+      "code": 500,
+      "subcategories": [
+        {
+          "description": "Mathematics",
+          "code": 510,
+          "subcategories": [
+            {
+              "description": "General principles of mathematics",
+              "code": 511
+            },
+            {
+              "description": "Algebra",
+              "code": 512
+            },
+            {
+              "description": "Arithmetic",
+              "code": 513
+            },
+            {
+              "description": "Topology",
+              "code": 514
+            },
+            {
+              "description": "Geometry",
+              "code": 515
+            },
+            {
+              "description": "Number theory",
+              "code": 516
+            },
+            {
+              "description": "Mathematical logic",
+              "code": 517
+            },
+            {
+              "description": "Applied mathematics",
+              "code": 518
+            }
+          ]
+        },
+        {
+          "description": "Astronomy & allied sciences",
+          "code": 520,
+          "subcategories": [
+            {
+              "description": "Celestial mechanics",
+              "code": 521
+            },
+            {
+              "description": "Techniques, procedures, apparatus, equipment",
+              "code": 522
+            },
+            {
+              "description": "Specific celestial bodies & phenomena",
+              "code": 523
+            },
+            {
+              "description": "Astrophysics",
+              "code": 524
+            },
+            {
+              "description": "Observational astronomy",
+              "code": 525
+            },
+            {
+              "description": "Planetary science",
+              "code": 526
+            },
+            {
+              "description": "Cosmology",
+              "code": 527
+            },
+            {
+              "description": "Astrobiology",
+              "code": 528
+            }
+          ]
+        },
+        {
+          "description": "Physics",
+          "code": 530,
+          "subcategories": [
+            {
+              "description": "Mechanics",
+              "code": 531
+            },
+            {
+              "description": "Fluid Mechanics",
+              "code": 532
+            },
+            {
+              "description": "Gas dynamics; Aerodynamics; Pneumatics",
+              "code": 533
+            },
+            {
+              "description": "Sound Acoustics",
+              "code": 534
+            },
+            {
+              "description": "Optics",
+              "code": 535
+            }
+          ]
+        },
+        {
+          "description": "Chemistry",
+          "code": 540,
+          "subcategories": [
+            {
+              "description": "Physical; Theoretical",
+              "code": 541
+            },
+            {
+              "description": "Chemical Laboratories",
+              "code": 542
+            },
+            {
+              "description": "Analytic",
+              "code": 543
+            },
+            {
+              "description": "Inorganic",
+              "code": 546
+            },
+            {
+              "description": "Organic",
+              "code": 547
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Technology & Applied Sciences",
+      "code": 600,
+      "subcategories": [
+        {
+          "description": "Medicine & health",
+          "code": 610,
+          "subcategories": [
+            {
+              "description": "Human anatomy, cytology, histology",
+              "code": 611
+            },
+            {
+              "description": "Human physiology",
+              "code": 612
+            },
+            {
+              "description": "Personal health & safety",
+              "code": 613
+            },
+            {
+              "description": "Public health & preventive medicine",
+              "code": 614
+            }
+          ]
+        },
+        {
+          "description": "Engineering & allied operations",
+          "code": 620,
+          "subcategories": [
+            {
+              "description": "Applied physics",
+              "code": 621
+            },
+            {
+              "description": "Mining & related operations",
+              "code": 622
+            },
+            {
+              "description": "Military & nautical engineering",
+              "code": 623
+            },
+            {
+              "description": "Civil engineering",
+              "code": 624
+            },
+            {
+              "description": "Engineering of railroads",
+              "code": 625
+            },
+            {
+              "description": "Civil engineering of canals, waterways, ports",
+              "code": 626
+            },
+            {
+              "description": "Hydraulic engineering",
+              "code": 627
+            },
+            {
+              "description": "Sanitary & municipal engineering",
+              "code": 628
+            }
+          ]
+        },
+        {
+          "description": "Computer Science",
+          "code": 630,
+          "subcategories": [
+            {
+              "description": "Algorithms",
+              "code": 631
+            },
+            {
+              "description": "Database systems",
+              "code": 632
+            },
+            {
+              "description": "Artificial intelligence",
+              "code": 633
+            },
+            {
+              "description": "Networks & security",
+              "code": 634
+            }
+          ]
+        },
+        {
+          "description": "Environmental Science",
+          "code": 640,
+          "subcategories": [
+            {
+              "description": "Ecology",
+              "code": 641
+            },
+            {
+              "description": "Climate science",
+              "code": 642
+            },
+            {
+              "description": "Environmental conservation",
+              "code": 643
+            },
+            {
+              "description": "Waste management",
+              "code": 644
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Arts & Recreation",
+      "code": 700,
+      "subcategories": [
+        {
+          "description": "Civic & landscape art",
+          "code": 710,
+          "subcategories": [
+            {
+              "description": "Area planning",
+              "code": 711
+            },
+            {
+              "description": "Landscape design",
+              "code": 712
+            },
+            {
+              "description": "Urban Renewal",
+              "code": 713
+            },
+            {
+              "description": "Public Sculptures",
+              "code": 714
+            }
+          ]
+        },
+        {
+          "description": "Architecture",
+          "code": 720,
+          "subcategories": [
+            {
+              "description": "Architectural planning",
+              "code": 721
+            },
+            {
+              "description": "Architecture by periods",
+              "code": 722
+            },
+            {
+              "description": "Medieval architecture",
+              "code": 723
+            },
+            {
+              "description": "Modern architecture",
+              "code": 724
+            },
+            {
+              "description": "Residential Architecture",
+              "code": 725
+            },
+            {
+              "description": "Commercial Architecture",
+              "code": 726
+            },
+            {
+              "description": "Sustainable Architecture",
+              "code": 727
+            },
+            {
+              "description": "Architectural History",
+              "code": 728
+            }
+          ]
+        },
+        {
+          "description": "Sculpture, ceramics & metalwork",
+          "code": 730,
+          "subcategories": [
+            {
+              "description": "Sculpture techniques",
+              "code": 731
+            },
+            {
+              "description": "Pottery",
+              "code": 732
+            },
+            {
+              "description": "Ceramic decoration",
+              "code": 733
+            },
+            {
+              "description": "Glazes",
+              "code": 734
+            },
+            {
+              "description": "Metal Sculptures",
+              "code": 735
+            },
+            {
+              "description": "Ceramic Sculptures",
+              "code": 736
+            },
+            {
+              "description": "Bronze Casting",
+              "code": 737
+            },
+            {
+              "description": "Ceramic Art History",
+              "code": 738
+            }
+          ]
+        },
+        {
+          "description": "Graphic arts and decorative arts",
+          "code": 740,
+          "subcategories": [
+            {
+              "description": "Drawing & Drawings",
+              "code": 741
+            },
+            {
+              "description": "Perspective in drawing",
+              "code": 742
+            },
+            {
+              "description": "Drawing and drawings by subject",
+              "code": 743
+            },
+            {
+              "description": "Decorative Arts",
+              "code": 745
+            },
+            {
+              "description": "Textile Arts",
+              "code": 746
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Literature",
+      "code": 800,
+      "subcategories": [
+        {
+          "description": "American literature in English",
+          "code": 810,
+          "subcategories": [
+            {
+              "description": "Poetry",
+              "code": 811
+            },
+            {
+              "description": "Drama",
+              "code": 812
+            },
+            {
+              "description": "Novels",
+              "code": 813
+            },
+            {
+              "description": "Short Stories",
+              "code": 814
+            }
+          ]
+        },
+        {
+          "description": "English & Old English literatures",
+          "code": 820,
+          "subcategories": [
+            {
+              "description": "Poetry",
+              "code": 821
+            },
+            {
+              "description": "Drama",
+              "code": 822
+            },
+            {
+              "description": "English fiction",
+              "code": 823
+            },
+            {
+              "description": "Essays",
+              "code": 824
+            }
+          ]
+        },
+        {
+          "description": "German & related literatures",
+          "code": 830,
+          "subcategories": [
+            {
+              "description": "German poetry",
+              "code": 831
+            },
+            {
+              "description": "German drama",
+              "code": 832
+            },
+            {
+              "description": "German fiction",
+              "code": 833
+            },
+            {
+              "description": "German essays",
+              "code": 834
+            }
+          ]
+        },
+        {
+          "description": "French literature",
+          "code": 840,
+          "subcategories": [
+            {
+              "description": "French poetry",
+              "code": 841
+            },
+            {
+              "description": "French drama",
+              "code": 842
+            },
+            {
+              "description": "French fiction",
+              "code": 843
+            },
+            {
+              "description": "French essays",
+              "code": 844
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "History & Geography",
+      "code": 900,
+      "subcategories": [
+        {
+          "description": "Geography & travel",
+          "code": 910,
+          "subcategories": [
+            {
+              "description": "Historical geography",
+              "code": 911
+            },
+            {
+              "description": "Maps & atlases",
+              "code": 912
+            },
+            {
+              "description": "Landforms",
+              "code": 913
+            },
+            {
+              "description": "Exploration",
+              "code": 914
+            }
+          ]
+        },
+        {
+          "description": "Biography, genealogy, insignia",
+          "code": 920,
+          "subcategories": [
+            {
+              "description": "Biography",
+              "code": 921
+            },
+            {
+              "description": "Genealogy",
+              "code": 922
+            },
+            {
+              "description": "Personal narratives",
+              "code": 923
+            },
+            {
+              "description": "Collective biographies",
+              "code": 924
+            },
+            {
+              "description": "Insignia and symbols",
+              "code": 925
+            },
+            {
+              "description": "Autobiography",
+              "code": 926
+            },
+            {
+              "description": "Family history",
+              "code": 927
+            },
+            {
+              "description": "Military biographies",
+              "code": 928
+            }
+          ]
+        },
+        {
+          "description": "Ancient History",
+          "code": 930,
+          "subcategories": [
+            {
+              "description": "Ancient China",
+              "code": 931
+            },
+            {
+              "description": "Ancient Egypt",
+              "code": 932
+            },
+            {
+              "description": "Ancient Palestine",
+              "code": 933
+            },
+            {
+              "description": "Ancient South Asia",
+              "code": 934
+            }
+          ]
+        },
+        {
+          "description": "Europe",
+          "code": 940,
+          "subcategories": [
+            {
+              "description": "British Isles",
+              "code": 941
+            },
+            {
+              "description": "England and Wales",
+              "code": 942
+            },
+            {
+              "description": "Germany and central Europe",
+              "code": 943
+            },
+            {
+              "description": "France and region",
+              "code": 944
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
